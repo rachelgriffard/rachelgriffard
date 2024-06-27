@@ -21,4 +21,5 @@
 
 <p align = "left">
 <img src = "https://stats.quira.sh/rachelgriffard/languages-over-time?theme=dark" width = 500>
+<img src = "https://github.com/rachelgriffard/rachelgriffard/assets/95938614/36f6e3f2-6379-41a2-9a78-838cdd99a40c" height = 300>
 </p>
