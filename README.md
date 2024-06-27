@@ -2,7 +2,7 @@
 
 <p align = "center">
 <img src = "https://github-readme-stats.vercel.app/api?username=rachelgriffard&show_icons=true&theme=transparent">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rachelgriffard&theme=transparent">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rachelgriffard&theme=transparent&layout=compact">
 </p>
 
 - 🔭 I’m currently working on **a package for decontaminating microbiomes**
