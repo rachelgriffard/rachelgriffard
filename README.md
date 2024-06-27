@@ -1,7 +1,9 @@
 ![Heading](https://github.com/rachelgriffard/rachelgriffard/assets/95938614/da163475-81b9-433a-abb8-486956cd30d2)
 
-
-![Rachel's GitHub stats](https://github-readme-stats.vercel.app/api?username=rachelgriffard&show_icons=true&theme=tokyonight)
+<p align = "center">
+<img src = "https://github-readme-stats.vercel.app/api?username=rachelgriffard&show_icons=true&theme=tokyonight">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rachelgriffard&theme=tokyonight">
+</p>
 
 - 🔭 I’m currently working on **a package for decontaminating microbiomes**
 
