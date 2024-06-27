@@ -5,9 +5,9 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rachelgriffard&theme=transparent&layout=compact">
 </p>
 
-- 🔭 I’m currently working on **a package for decontaminating microbiomes**
+- <img src = "https://github.com/rachelgriffard/rachelgriffard/assets/95938614/563554b2-a53b-4d42-a893-5d3dd3d717cc" alt = "micro" width = "20" height = "20"> I’m currently working on [a package for decontaminating microbiomes](https://github.com/rachelgriffard/micRoclean)
 
-- 🌱 I’m currently learning **docker!**
+- <img src = "https://static-00.iconduck.com/assets.00/docker-icon-2048x2048-5mc7mvtn.png" alt = "docker" width = "15" height = "15"/> My current goal is to learn **docker**
 
 - 📫 How to reach me **rachelgriffard@gmail.com**
 
