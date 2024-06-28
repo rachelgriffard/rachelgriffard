@@ -8,7 +8,7 @@
 
 <img src = "https://www.standardbio.com/FluidigmSite_Assets/PrdSrv-Tech_ImagingMassCytometry/Images/IMC_Co-detection-RNA-Protein-Lung_cir.png" alt = "docker" width = "20" height = "20"/> My current goal is to learn more about **spatial transcriptomics**
 
-:phone:Reach me **rachelgriffard@gmail.com** or connect with me via LinkedIn: <a href="https://linkedin.com/in/www.linkedin.com/in/rachelgriffard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rachelgriffard" height="20" width="20" />
+:phone:Reach me **rachelgriffard@gmail.com** or connect with me via LinkedIn: <a href="https://www.linkedin.com/in/rachelgriffard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rachelgriffard" height="20" width="20" />
 
 🧗‍♀️ Fun fact **I love to rock climb**
 
