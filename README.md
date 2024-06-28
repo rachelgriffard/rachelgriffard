@@ -2,7 +2,7 @@
 
 *🍄bioinformatics girl🌳 in a 💻computer science💾 world🌎*
 
-<img src = "https://stats.quira.sh/rachelgriffard/github?theme=dark" width = 400 align = "right">
+<img src = "https://stats.quira.sh/rachelgriffard/github?theme=light" width = 400 align = "right">
   
 <img src = "https://github.com/rachelgriffard/rachelgriffard/assets/95938614/563554b2-a53b-4d42-a893-5d3dd3d717cc" alt = "micro" width = "20" height = "20"> I’m currently working on [a package for decontaminating microbiomes](https://github.com/rachelgriffard/micRoclean)
 
@@ -17,6 +17,6 @@
 
 
 <p align = "left">
-<img src = "https://stats.quira.sh/rachelgriffard/languages-over-time?theme=dark" width = 500>
+<img src = "https://stats.quira.sh/rachelgriffard/languages-over-time?theme=light" width = 500>
 <img src = "https://github.com/rachelgriffard/rachelgriffard/assets/95938614/36f6e3f2-6379-41a2-9a78-838cdd99a40c" height = 300>
 </p>
