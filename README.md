@@ -1,5 +1,6 @@
 ![Heading](https://github.com/rachelgriffard/rachelgriffard/assets/95938614/da163475-81b9-433a-abb8-486956cd30d2)
 
+*🍄bioinformatics🌳 girl in a 💻computer science💾 world🌎*
 
 <img src = "https://stats.quira.sh/rachelgriffard/github?theme=dark" width = 400 align = "right">
   
