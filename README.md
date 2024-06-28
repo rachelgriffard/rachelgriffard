@@ -1,4 +1,4 @@
-![Heading](https://github.com/rachelgriffard/rachelgriffard/assets/95938614/da163475-81b9-433a-abb8-486956cd30d2)
+![Heading](https://github.com/rachelgriffard/rachelgriffard/assets/95938614/d029974e-a018-4f62-ae4f-1259874351c7)
 
 *🍄bioinformatics girl🌳 in a 💻computer science💾 world🌎*
 
