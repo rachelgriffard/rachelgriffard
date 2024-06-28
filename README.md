@@ -1,5 +1,9 @@
 ![Heading](https://github.com/rachelgriffard/rachelgriffard/assets/95938614/d029974e-a018-4f62-ae4f-1259874351c7)
 
+<p align = "center">
+<img src="https://img.shields.io/github/stars/rachelgriffard?label=Stars" alt="stars"> <img alt="followers" src="https://img.shields.io/github/followers/rachelgriffard?label=Followers&style=social">
+</p>
+
 *🍄bioinformatics girl🌳 in a 💻computer science💾 world🌎*
 
 <img src = "https://stats.quira.sh/rachelgriffard/github?theme=light" width = 400 align = "right">
