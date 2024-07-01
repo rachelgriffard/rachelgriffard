@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/github/stars/rachelgriffard?label=Stars" alt="stars"> <img alt="followers" src="https://img.shields.io/github/followers/rachelgriffard?label=Followers&style=social">
 </p>
 
-*🍄bioinformatics girl🌳 in a 💻computer science💾 world🌎*
+*🍄bioinformatics girly🌳*
 
 <img src = "https://github-readme-stats.vercel.app/api?username=rachelgriffard&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonights" width = 400 align = "right">
   
