@@ -21,5 +21,5 @@
 
 <p align = "left">
 <img src = "https://github-readme-streak-stats.herokuapp.com/?user=rachelgriffard" width = 450>
-<img src = "https://github.com/rachelgriffard/rachelgriffard/assets/95938614/36f6e3f2-6379-41a2-9a78-838cdd99a40c" height = 300>
+<img src = "https://github.com/rachelgriffard/rachelgriffard/assets/95938614/36f6e3f2-6379-41a2-9a78-838cdd99a40c" height = 175>
 </p>
