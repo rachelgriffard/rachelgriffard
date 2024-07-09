@@ -6,7 +6,7 @@
 
 *🍄bioinformatics girly🌳*
 
-<img src = "https://github-readme-stats.vercel.app/api?username=rachelgriffard&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonights" width = 400 align = "right">
+<img src="https://github-readme-stats.vercel.app/api?username=rachelgriffard&show_icons=true&locale=en&rank_icon=github" width = 400 align = "right" />
   
 <img src = "https://github.com/rachelgriffard/rachelgriffard/assets/95938614/563554b2-a53b-4d42-a893-5d3dd3d717cc" alt = "micro" width = "20" height = "20"> I’m currently working on [a package for decontaminating microgenomic datasets](https://github.com/rachelgriffard/micRoclean)
 
