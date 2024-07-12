@@ -28,5 +28,3 @@
   <a> <a href = "https://www.microsoft.com/en-us/sql-server/sql-server-downloads"> <img src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" alt="mssql" width="60" height="60"/> </a>
   <a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a>
   <a> <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">  <img src=https://avatars.githubusercontent.com/u/497012?s=280&v=4" alt="anaconda" width="60" height="60"/> </a>
-  <a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="60" height="60"/> </a>
-  <a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60"/> </a>
