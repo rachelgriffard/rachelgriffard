@@ -14,7 +14,7 @@
 
 :phone: Connect with me via LinkedIn: <a href="https://www.linkedin.com/in/rachelgriffard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rachelgriffard" height="20" width="20" />
 
-🧗‍♀️ Fun fact: I love to **rock climb** in my free time
+🧗‍♀️ Fun fact: I love to **boulder** in my free time
 
 <p align="center">Languages & Tools</p>
 <p align="center"> 
