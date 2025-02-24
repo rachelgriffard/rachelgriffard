@@ -14,7 +14,6 @@
 
 🧗‍♀️ Fun fact: I love to **boulder** in my free time
 
-<p align="center">Languages & Tools</p>
 <p align="center"> 
   <a> <a href = "https://www.r-project.org/" target = "_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png"  alt="R" width="60" height="60"/> </a>
   <a> <a href = "https://www.tidyverse.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/rachelgriffard/rachelgriffard/assets/95938614/13cc0c51-d675-42bc-b5a6-565f3d47c7d7" alt="tidyverse" width="60" height="60"/> </a>
