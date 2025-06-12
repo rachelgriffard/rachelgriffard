@@ -27,4 +27,5 @@
   <a> <a href = "https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target = "_blank"> <img src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" alt="mssql" width="60" height="60"/> </a>
   <a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a>
   <a> <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">  <img src=https://avatars.githubusercontent.com/u/497012?s=280&v=4" alt="anaconda" width="60" height="60"/> </a>
+    <a> <a href="https://www.nextflow.io/"> <img src="https://avatars.githubusercontent.com/u/6698688?s=280&v=4" alt = "Nextflow" height="60"></a></a>
   <a> <a href="https://cosmos.epic.com" target = "_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/57a6ca8a-9a06-4a76-9256-11a562fc019f" alt="Epic COSMOS" height="60"</a>
