@@ -10,9 +10,9 @@
 
 <img src = "https://github.com/rachelgriffard/rachelgriffard/assets/95938614/563554b2-a53b-4d42-a893-5d3dd3d717cc" alt = "micro" width = "20" height = "20"> I just published [a package](https://github.com/rachelgriffard/micRoclean) for decontaminating low-biomass microbiome data with peer-reviewed article [accessible here](https://www.frontiersin.org/journals/bioinformatics/articles/10.3389/fbinf.2025.1556361/full)
 
-<img src = "https://www.standardbio.com/FluidigmSite_Assets/PrdSrv-Tech_ImagingMassCytometry/Images/IMC_Co-detection-RNA-Protein-Lung_cir.png" alt = "docker" width = "20" height = "20"/> My current goal is to learn more about **spatial transcriptomics**
+🔗 My current goal is to learn more about **systems biology** and how it might continue to inform how we research the microbiome 🧬
 
-:phone: Connect with me via LinkedIn: <a href="https://www.linkedin.com/in/rachelgriffard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rachelgriffard" height="20" width="20" />
+:phone: Connect with me via LinkedIn! <a href="https://www.linkedin.com/in/rachelgriffard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rachelgriffard" height="15" width="15" />
 
 🧗‍♀️ Fun fact: I love to **boulder** in my free time
 
