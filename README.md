@@ -16,16 +16,44 @@
 
 🧗‍♀️ Fun fact: I love to **boulder** in my free time
 
-<p align="center"> 
-  <a> <a href = "https://www.r-project.org/" target = "_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png"  alt="R" width="60" height="60"/> </a>
-  <a> <a href = "https://www.tidyverse.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/rachelgriffard/rachelgriffard/assets/95938614/13cc0c51-d675-42bc-b5a6-565f3d47c7d7" alt="tidyverse" width="60" height="60"/> </a>
-  <a> <a href = "https://www.bioconductor.org/" target="_blank" rel="noreferrer"> <img src="https://robertamezquita.github.io/orchestratingSingleCellAnalysis/cover.png" alt="bioconductor" width="60" height="60"/> </a>
-  <a> <a href = "https://posit.co/" target = "_blank"> <img src="https://github.com/rachelgriffard/rachelgriffard/assets/95938614/b45a6fd3-c65c-4788-9e4c-69695032cde0" alt="github" width="60" height="60"/> </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="60" height="60"/> </a>
-  <a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer" width="60" height="60"/> </a>
-  <a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a>
-  <a> <a href = "https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target = "_blank"> <img src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" alt="mssql" width="60" height="60"/> </a>
-  <a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a>
-  <a> <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">  <img src=https://avatars.githubusercontent.com/u/497012?s=280&v=4" alt="anaconda" width="60" height="60"/> </a>
-    <a> <a href="https://www.nextflow.io/"> <img src="https://avatars.githubusercontent.com/u/6698688?s=280&v=4" alt = "Nextflow" height="60"></a></a>
-  <a> <a href="https://cosmos.epic.com" target = "_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/57a6ca8a-9a06-4a76-9256-11a562fc019f" alt="Epic COSMOS" height="60"</a>
+<p align="center">
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" alt="R" width="60" height="60"/>
+  </a>
+  <a href="https://www.tidyverse.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/rachelgriffard/rachelgriffard/assets/95938614/13cc0c51-d675-42bc-b5a6-565f3d47c7d7" alt="tidyverse" width="60" height="60"/>
+  </a>
+  <a href="https://www.bioconductor.org/" target="_blank" rel="noreferrer">
+    <img src="https://robertamezquita.github.io/orchestratingSingleCellAnalysis/cover.png" alt="bioconductor" width="60" height="60"/>
+  </a>
+  <a href="https://posit.co/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/rachelgriffard/rachelgriffard/assets/95938614/b45a6fd3-c65c-4788-9e4c-69695032cde0" alt="posit" width="60" height="60"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="60" height="60"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cpp" width="60" height="60"/>
+  </a>
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Illustrator" width="60" height="60"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" alt="mssql" width="60" height="60"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
+  </a>
+  <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/497012?s=280&v=4" alt="anaconda" width="60" height="60"/>
+  </a>
+  <a href="https://www.nextflow.io/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/6698688?s=280&v=4" alt="Nextflow" height="60"/>
+  </a>
+  <a href="https://cosmos.epic.com" target="_blank" rel="noreferrer">
+    <img src="https://github.com/user-attachments/assets/57a6ca8a-9a06-4a76-9256-11a562fc019f" alt="Epic COSMOS" height="60"/>
+  </a>
+</p>
