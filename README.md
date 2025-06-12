@@ -8,7 +8,7 @@
 
 <img src = "https://github.com/user-attachments/assets/63a0ebb0-3d48-4bbc-ad27-0dbd619d6283" alt = "network" width = "20" height = "20"> I'm currently working on a Nextflow pipeline and R package that can facilitate [guild-based microbiome analysis](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-021-00840-y)
 
-<img src = "https://github.com/rachelgriffard/rachelgriffard/assets/95938614/563554b2-a53b-4d42-a893-5d3dd3d717cc" alt = "micro" width = "20" height = "20"> I just published [a package for decontaminating low-biomass microbiome data](https://github.com/rachelgriffard/micRoclean) with peer-reviewed article [accessible here](https://www.frontiersin.org/journals/bioinformatics/articles/10.3389/fbinf.2025.1556361/full)
+<img src = "https://github.com/rachelgriffard/rachelgriffard/assets/95938614/563554b2-a53b-4d42-a893-5d3dd3d717cc" alt = "micro" width = "20" height = "20"> I just published [a package](https://github.com/rachelgriffard/micRoclean) for decontaminating low-biomass microbiome data with peer-reviewed article [accessible here](https://www.frontiersin.org/journals/bioinformatics/articles/10.3389/fbinf.2025.1556361/full)
 
 <img src = "https://www.standardbio.com/FluidigmSite_Assets/PrdSrv-Tech_ImagingMassCytometry/Images/IMC_Co-detection-RNA-Protein-Lung_cir.png" alt = "docker" width = "20" height = "20"/> My current goal is to learn more about **spatial transcriptomics**
 
