@@ -51,3 +51,7 @@
     <img src="https://github.com/user-attachments/assets/57a6ca8a-9a06-4a76-9256-11a562fc019f" alt="Epic COSMOS" height="60"/>
   </a>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachelgriffard&layout=compact&hide_progress=true&langs_count=8" width="300" alt="Top Languages" />
+</p>
