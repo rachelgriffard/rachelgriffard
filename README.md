@@ -26,9 +26,6 @@
   <a href="https://www.bioconductor.org/" target="_blank" rel="noreferrer">
     <img src="https://robertamezquita.github.io/orchestratingSingleCellAnalysis/cover.png" alt="bioconductor" width="60" height="60"/>
   </a>
-  <a href="https://posit.co/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/rachelgriffard/rachelgriffard/assets/95938614/b45a6fd3-c65c-4788-9e4c-69695032cde0" alt="posit" width="60" height="60"/>
-  </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="60" height="60"/>
   </a>
@@ -46,9 +43,6 @@
   </a>
   <a href="https://www.nextflow.io/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/6698688?s=280&v=4" alt="Nextflow" height="60"/>
-  </a>
-  <a href="https://cosmos.epic.com" target="_blank" rel="noreferrer">
-    <img src="https://github.com/user-attachments/assets/57a6ca8a-9a06-4a76-9256-11a562fc019f" alt="Epic COSMOS" height="60"/>
   </a>
 </p>
 
