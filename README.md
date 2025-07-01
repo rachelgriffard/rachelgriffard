@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/github/stars/rachelgriffard?label=Stars" alt="stars"> <img alt="followers" src="https://img.shields.io/github/followers/rachelgriffard?label=Followers&style=social">
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=rachelgriffard&show_icons=true&locale=en&rank_icon=github" width = 400 align = "right" />
+<img src="https://github-readme-stats.vercel.app/api?username=rachelgriffard&show_icons=true&locale=en&hide_rank=true&bg_color=00a6a0&title_color=ffffff&text_color=ffffff&border_radius=6&icon_color=ffffff" width = 400 align = "right" />
 
 <img src = "https://github.com/user-attachments/assets/63a0ebb0-3d48-4bbc-ad27-0dbd619d6283" alt = "network" width = "20" height = "20"> I'm currently working on a Nextflow pipeline and R package that can facilitate [guild-based microbiome analysis](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-021-00840-y)
 
@@ -51,5 +51,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachelgriffard&layout=compact&hide_progress=true&langs_count=8" width="300" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachelgriffard&layout=compact&hide_progress=true&langs_count=8&bg_color=00a6a0&title_color=ffffff&text_color=ffffff&border_radius=6&icon_color=ffffff" width="300" alt="Top Languages" />
 </p>
