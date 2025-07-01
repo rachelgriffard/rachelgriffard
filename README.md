@@ -48,4 +48,5 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachelgriffard&layout=compact&hide_progress=true&langs_count=8" width="300" alt="Top Languages" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWtvbTJkcWZ0N3A3ZTFqcXk3ZWFjbDBjOTN4amZoc2Jub3hhc2twaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tCbbdjDDgz68dFfuIK/giphy.gif" height = 150 />
 </p>
