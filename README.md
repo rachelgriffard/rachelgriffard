@@ -1,4 +1,8 @@
-![Heading](https://github.com/rachelgriffard/rachelgriffard/assets/95938614/d029974e-a018-4f62-ae4f-1259874351c7)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a856a152-30aa-44ca-a6d7-06a80a72a2a7" 
+       alt="Heading" 
+       style="width: 100%; max-width: 1000px; height: auto;" />
+</p>
 
 <p align = "center">
 <img src="https://img.shields.io/github/stars/rachelgriffard?label=Stars" alt="stars"> <img alt="followers" src="https://img.shields.io/github/followers/rachelgriffard?label=Followers&style=social">
@@ -48,5 +52,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachelgriffard&layout=compact&hide_progress=true&langs_count=8" width="300" alt="Top Languages" />
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWtvbTJkcWZ0N3A3ZTFqcXk3ZWFjbDBjOTN4amZoc2Jub3hhc2twaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tCbbdjDDgz68dFfuIK/giphy.gif" height = 150 />
 </p>
