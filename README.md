@@ -16,8 +16,6 @@
 
 🔗 My current goal is to learn more about **systems biology** and how it might continue to inform how we research the microbiome 🧬
 
-:phone: Connect with me via LinkedIn! <a href="https://www.linkedin.com/in/rachelgriffard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rachelgriffard" height="15" width="15" />
-
 🧗‍♀️ Fun fact: I love to **boulder** in my free time
 
 <p align="center">
