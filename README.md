@@ -9,7 +9,8 @@
   <img src="https://img.shields.io/github/followers/rachelgriffard?style=social" alt="GitHub followers">
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=rachelgriffard&show_icons=true&locale=en&hide_rank=true&bg_color=00a6a0&title_color=ffffff&text_color=ffffff&border_radius=6&icon_color=ffffff&custom_title=Rachel's%20GitHub%20Stats" width = 300 align = "right" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rachelgriffard&show_icons=true&locale=en&hide_rank=true&bg_color=00a6a0&title_color=ffffff&text_color=ffffff&border_radius=6&icon_color=ffffff&custom_title=Rachel's%20GitHub%20Stats" width = 300 align = "right" />
+
 
 <img src = "https://github.com/user-attachments/assets/63a0ebb0-3d48-4bbc-ad27-0dbd619d6283" alt = "network" width = "20" height = "20"> I'm currently working on a Nextflow pipeline and R package that can facilitate [guild-based microbiome analysis](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-021-00840-y)
 
