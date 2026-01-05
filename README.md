@@ -47,7 +47,3 @@
     <img src="https://avatars.githubusercontent.com/u/6698688?s=280&v=4" alt="Nextflow" height="60"/>
   </a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachelgriffard&layout=compact&hide_progress=true&langs_count=8&bg_color=00a6a0&title_color=ffffff&text_color=ffffff&border_radius=6&icon_color=ffffff&custom_title=Rachel's%20Languages" width="300" alt="Top Languages" />
-</p>
