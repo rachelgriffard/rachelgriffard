@@ -4,8 +4,9 @@
        style="width: 100%; max-width: 1000px; height: auto;" />
 </p>
 
-<p align = "center">
-<img src="https://img.shields.io/github/stars/rachelgriffard?label=Stars" alt="stars"> <img alt="followers" src="https://img.shields.io/github/followers/rachelgriffard?label=Followers&style=social">
+<p align="center">
+  <img src="https://img.shields.io/github/stars/rachelgriffard?style=social" alt="GitHub stars">
+  <img src="https://img.shields.io/github/followers/rachelgriffard?style=social" alt="GitHub followers">
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=rachelgriffard&show_icons=true&locale=en&hide_rank=true&bg_color=00a6a0&title_color=ffffff&text_color=ffffff&border_radius=6&icon_color=ffffff&custom_title=Rachel's%20GitHub%20Stats" width = 300 align = "right" />
