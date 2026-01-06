@@ -16,7 +16,7 @@
 
 <img src = "https://github.com/rachelgriffard/rachelgriffard/assets/95938614/563554b2-a53b-4d42-a893-5d3dd3d717cc" alt = "micro" width = "20" height = "20"> I just published [a package](https://github.com/rachelgriffard/micRoclean) for decontaminating low-biomass microbiome data with peer-reviewed article [accessible here](https://www.frontiersin.org/journals/bioinformatics/articles/10.3389/fbinf.2025.1556361/full)
 
-🔗 My current goal is to learn more about **systems biology** and how it might continue to inform how we research the microbiome 🧬
+🔗 My current goal is to learn more about **Nextflow best practices** to ensure my pipeline is the most effective it can be!
 
 🧗‍♀️ Fun fact: I love to **boulder** in my free time
 
